@@ -17,3 +17,9 @@ These resources give you the absolute basics to teach yourself data science at h
 * Start an open source open data project on a topic you are really interested in. For example, see the following:
 
     * https://github.com/neelsoumya/public_open_source_data_science
+
+
+
+* If you get stuck or want to learn the basics consult the ISLR book
+
+    * https://www.statlearning.com/s/ISLRSeventhPrinting.pdf
