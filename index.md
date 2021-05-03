@@ -1,5 +1,31 @@
 ## Welcome to GitHub Pages
 
+
+Resources to get started in data science and teach yourself data science. These resources are suitable for students in low and medium income countries (LMIC). 
+
+These resources give you the absolute basics to teach yourself data science at home. I assume you have a computer and an internet connection.
+
+* Learn programming (especially C and/or Python and/or R)
+
+    * https://github.com/neelsoumya/programming_resources 
+
+* Learn statistics
+
+    * https://github.com/neelsoumya/basic_statistics
+
+
+* Start an open source open data project on a topic you are really interested in. For example, see the following:
+
+    * https://github.com/neelsoumya/public_open_source_data_science
+
+
+
+* If you get stuck or want to learn the basics consult the ISLR book
+
+    * https://www.statlearning.com/s/ISLRSeventhPrinting.pdf
+
+
+
 You can use the [editor on GitHub](https://github.com/neelsoumya/getting-_started_data_science/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
