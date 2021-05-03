@@ -20,6 +20,7 @@ These resources give you the absolute basics to teach yourself data science at h
 
 
 
+
 * If you get stuck or want to learn the basics consult the ISLR book
 
     * https://www.statlearning.com/s/ISLRSeventhPrinting.pdf
