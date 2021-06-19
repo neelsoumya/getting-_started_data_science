@@ -1,7 +1,7 @@
 # getting-_started_data_science
 
 
-Resources to get started in data science and teach yourself data science. These resources are suitable for students in low and medium income countries (LMICs). 
+Resources to get started and teach yourself data science. These resources are suitable for students in low and medium income countries (LMICs). 
 
 These resources give you the absolute basics to teach yourself data science at home. I assume you have a basic computer, an internet connection and a drive to learn.
 
@@ -20,6 +20,6 @@ These resources give you the absolute basics to teach yourself data science at h
 
 
 
-* If you get stuck or want to learn the basics consult the ISLR book
+* If you get stuck or want to learn the basics consult the free ISLR book
 
     * https://www.statlearning.com/s/ISLRSeventhPrinting.pdf
