@@ -9,7 +9,7 @@ These resources give you the absolute basics to teach yourself data science at h
 
     * https://github.com/neelsoumya/programming_resources 
 
-* Learn statistics
+* Learn basic statistics
 
     * https://github.com/neelsoumya/basic_statistics
 
