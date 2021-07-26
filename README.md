@@ -21,6 +21,6 @@ These resources give you the absolute basics to teach yourself data science at h
 
 
 
-* If you get stuck or want to learn the basics of statistics, consult the free ISLR book
+* If you get stuck or want to learn the basics of statistics, consult the free ISLR (Introduction to Statistical Learning) book
 
     * https://www.statlearning.com/s/ISLRSeventhPrinting.pdf
