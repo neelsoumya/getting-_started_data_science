@@ -13,7 +13,7 @@ These resources give you the absolute basics to teach yourself data science at h
 
     * https://github.com/neelsoumya/basic_statistics
 
-* Start an open source open data project on a topic you are really interested in. For example, see the following:
+* Start an open source open data science project on a topic you are really interested in. This will become your data science portfolio. For example, see the following:
 
     * https://github.com/neelsoumya/public_open_source_data_science
 
