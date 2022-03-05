@@ -1,0 +1,11 @@
+Package: getting-_started_data_science
+Type: Package
+Title: getting-_started_data_science: Teaching resources for data science
+Version: 1.0
+Imports: bookdown,
+          rmarkdown,
+          knitr,
+          tinytex,
+          ggplot2,
+          sqldf,
+          shiny
