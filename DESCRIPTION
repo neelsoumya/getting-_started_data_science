@@ -8,4 +8,5 @@ Imports: bookdown,
           tinytex,
           ggplot2,
           sqldf,
-          shiny
+          shiny,
+          ISLR
