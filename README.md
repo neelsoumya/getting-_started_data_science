@@ -13,13 +13,17 @@ These resources give you the absolute basics to teach yourself data science at h
 
     * https://github.com/neelsoumya/basic_statistics
 
+
+* Learn the basics of machine learning by consulting the free Introduction to Statistical Learning (ISLR) book
+
+    * https://www.statlearning.com/s/ISLRSeventhPrinting.pdf
+
 * Start an open source open data science project on a topic you are really interested in. This will become your data science portfolio. For example, see the following:
 
     * https://github.com/neelsoumya/public_open_source_data_science
 
 
+* Learn Large-language models (LLMs)
 
-
-* If you get stuck conceptually or want to learn the basics of statistics, you can consult the free Introduction to Statistical Learning (ISLR) book
-
-    * https://www.statlearning.com/s/ISLRSeventhPrinting.pdf
+  * https://github.com/neelsoumya/intro_to_LMMs
+    
