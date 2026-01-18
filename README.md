@@ -17,6 +17,8 @@ These resources give you the absolute basics to teach yourself data science at h
 * Learn the basics of machine learning by consulting the free Introduction to Statistical Learning (ISLR) book
 
     * https://www.statlearning.com/s/ISLRSeventhPrinting.pdf
+ 
+    * https://www.statlearning.com/
 
 * Start an open source open data science project on a topic you are really interested in. This will become your data science portfolio. For example, see the following:
 
