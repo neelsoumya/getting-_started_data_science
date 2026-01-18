@@ -23,6 +23,10 @@ These resources give you the absolute basics to teach yourself data science at h
     * https://github.com/neelsoumya/public_open_source_data_science
 
 
+* Basics of unsupervised machine learning
+
+   * https://cambiotraining.github.io/ml-unsupervised/    
+
 * Learn Large-language models (LLMs)
 
   * https://github.com/neelsoumya/intro_to_LMMs
