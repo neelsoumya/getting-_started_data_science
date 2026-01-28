@@ -24,6 +24,9 @@ These resources give you the absolute basics to teach yourself data science at h
 
     * https://github.com/neelsoumya/public_open_source_data_science
 
+* Machine learning in Python
+
+   * https://github.com/neelsoumya/python_machine_learning/tree/main
 
 * Basics of unsupervised machine learning
 
